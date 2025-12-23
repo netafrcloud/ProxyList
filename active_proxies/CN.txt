@@ -2,8 +2,8 @@
 117.50.80.157,1234,CN,Shanghai UCloud Information Technology Company Limited
 47.92.161.8,443,CN,Aliyun Computing Co LTD
 120.204.51.3,443,CN,China Mobile Communications Corporation shanghai company
-47.92.245.88,443,CN,Aliyun Computing Co LTD
-36.133.126.13,443,CN,China Mobile Communications Corporation
 124.222.223.113,8443,CN,Tencent cloud computing Beijing Co Ltd
+47.92.245.88,443,CN,Aliyun Computing Co LTD
 120.53.10.175,8888,CN,Beijing Voda Telecom Technology Co Ltd
+36.133.126.13,443,CN,China Mobile Communications Corporation
 39.98.224.123,443,CN,Aliyun Computing Co LTD
