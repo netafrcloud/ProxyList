@@ -1,0 +1,2 @@
+140.84.178.238,23010,MX,Oracle Corporation
+148.223.138.11,443,MX,Uninet S A de CV
