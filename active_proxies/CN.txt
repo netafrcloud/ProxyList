@@ -6,5 +6,4 @@
 47.92.245.88,443,CN,Aliyun Computing Co LTD
 120.53.10.175,8888,CN,Beijing Voda Telecom Technology Co Ltd
 36.133.126.13,443,CN,China Mobile Communications Corporation
-47.114.100.224,443,CN,Aliyun Computing Co LTD
 39.98.224.123,443,CN,Aliyun Computing Co LTD
