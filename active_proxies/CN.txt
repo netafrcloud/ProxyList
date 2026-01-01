@@ -1,5 +1,4 @@
 216.24.184.171,95,CN,CHINANET anhui province network
-117.50.80.157,1234,CN,Shanghai UCloud Information Technology Company Limited
 47.92.161.8,443,CN,Aliyun Computing Co LTD
 120.204.51.3,443,CN,China Mobile Communications Corporation shanghai company
 124.222.223.113,8443,CN,Tencent cloud computing Beijing Co Ltd
