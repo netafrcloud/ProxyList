@@ -1,1 +1,1 @@
-190.119.132.61,443,PE,America Movil Peru SAC
+190.120.229.55,443,PE,IPXON Networks Peru
