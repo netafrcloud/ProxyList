@@ -1,2 +1,2 @@
-102.210.243.7,443,ZA,Light Bridge Internet Pty Ltd
+139.84.229.193,443,ZA,The Constant Company LLC
 41.79.79.115,443,ZA,CA Customer Allocation
