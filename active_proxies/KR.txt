@@ -12,6 +12,7 @@
 116.93.199.28,30012,KR,SK Broadband Co Ltd
 118.223.252.190,50001,KR,SK Broadband Co Ltd
 52.141.25.42,443,KR,Microsoft Corporation
+211.105.86.219,30012,KR,Korea Telecom
 111.118.118.177,12399,KR,HYUNDAI HCN Kyongbuk Systems CoLtd
 146.56.140.79,20309,KR,Cloudflare Inc
 146.56.140.79,22561,KR,Cloudflare London LLC
@@ -35,17 +36,14 @@
 222.97.1.10,50000,KR,KT
 185.214.103.86,57569,KR,Invermae Solutions SL
 123.111.169.70,443,KR,SK Broadband Co Ltd
-144.24.90.107,443,KR,Oracle Corporation
 1.249.45.86,12112,KR,SK Broadband Co Ltd
-129.154.54.67,19567,KR,Oracle Corporation
-158.180.69.78,12198,KR,Cloudflare Inc
 129.154.48.176,36355,KR,Oracle Corporation
+158.180.69.78,12198,KR,Cloudflare Inc
+129.154.54.67,19567,KR,Oracle Corporation
 158.247.250.157,81,KR,The Constant Company LLC
 129.154.223.89,15800,KR,Oracle Corporation
 193.122.107.234,443,KR,Oracle Public Cloud
 125.138.28.68,12088,KR,Korea Telecom
-103.86.44.120,65432,KR,MOACK DC
-150.109.236.191,25565,KR,16 COLLYER QUAY
 130.162.130.105,443,KR,Oracle Public Cloud
 58.228.46.173,50003,KR,SK Broadband Co Ltd
 58.143.198.82,18097,KR,DLIVE Bukbu Cable TV
@@ -54,3 +52,4 @@
 144.24.87.69,50001,KR,Oracle Corporation
 138.2.122.191,443,KR,Oracle Corporation
 129.154.212.17,20180,KR,Oracle Corporation
+193.122.115.67,4434,KR,Oracle Public Cloud
