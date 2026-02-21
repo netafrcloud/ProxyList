@@ -1,5 +1,4 @@
 216.24.184.171,95,CN,CHINANET Anhui province network
-156.230.12.71,443,CN,263 Shanghai Communications Ltd
 117.50.80.157,1234,CN,Shanghai UCloud Information Technology Company Limited
 47.92.161.8,443,CN,Aliyun Computing Co LTD
 47.111.229.11,443,CN,Aliyun Computing Co LTD
