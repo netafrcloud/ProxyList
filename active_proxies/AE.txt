@@ -5,9 +5,8 @@
 193.123.90.82,12648,AE,Oracle Corporation
 84.235.245.65,2096,AE,Cloudflare Inc
 193.123.81.105,443,AE,Oracle Corporation
-176.97.66.175,443,AE,3nt solutions LLP
 90.156.221.54,443,AE,ITGLOBAL COM DMCC
+176.97.66.175,443,AE,3nt solutions LLP
 20.174.15.226,443,AE,Microsoft Corporation
 3.29.240.49,443,AE,Amazon Data Services UAE
 3.29.76.68,443,AE,Amazon Data Services UAE
-45.86.228.104,443,AE,BlueVPS OU
