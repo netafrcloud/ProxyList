@@ -1,10 +1,10 @@
 8.210.29.68,443,HK,Aliyun Computing CoLTD
 194.156.99.182,8443,HK,FreeNet LLCFZ
-154.16.10.34,8080,HK,Digital Energy Technologies Limited
 47.82.92.52,443,HK,Alibaba Cloud LLC
+154.16.10.34,8080,HK,Digital Energy Technologies Limited
 219.76.13.180,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
-219.76.13.167,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 219.76.13.183,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
+219.76.13.167,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 219.76.13.166,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 154.38.116.8,443,HK,STARCLOUD GLOBAL PTE LTD
 8.210.96.197,12902,HK,Aliyun Computing CoLTD
@@ -13,21 +13,21 @@
 45.38.42.198,2053,HK,EGIHosting
 103.194.107.166,443,HK,Antbox Networks Limited
 221.125.10.8,57537,HK,HGC Global Communications Limited
-192.142.4.76,2053,HK,Ultahost Inc
 45.149.186.112,8080,HK,AKILE LTD
 219.76.13.177,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 101.79.165.113,443,HK,CDNetworks
+192.142.4.76,2053,HK,Ultahost Inc
 210.6.207.42,18622,HK,Hong Kong Broadband Network Ltd
 156.230.12.71,443,HK,263 Shanghai Communications Ltd
 216.250.97.201,443,HK,HostHatch HKG1
 43.132.244.52,21415,HK,6 COLLYER QUAY
+192.131.142.161,46639,HK,365 Group LLC
 192.252.182.52,7602,HK,Integen Inc
 47.76.218.163,443,HK,Alibaba Cloud HK
-18.162.156.23,12355,HK,Amazon Data Services Hong Kong
 5.180.98.146,22827,HK,TEN
-118.141.64.192,36619,HK,HGC Global Communications Limited
+18.162.156.23,12355,HK,Amazon Data Services Hong Kong
 8.218.36.133,9010,HK,Alibaba Cloud Singapore Private Limited
-192.131.142.161,46639,HK,365 Group LLC
+118.141.64.192,36619,HK,HGC Global Communications Limited
 219.76.13.169,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 151.242.153.8,443,HK,EDGENAT CLOUD LLC
 223.16.138.113,10201,HK,HGC Global Communications Limited
@@ -38,4 +38,5 @@
 85.208.104.34,8080,HK,Internet Utilities Europe and Asia Limited
 141.11.91.67,8080,HK,Tusker Technologies Pty Ltd
 103.251.89.149,29876,HK,HengTian HK DataCenter
+47.240.15.210,4432,HK,Alibaba Cloud HK
 219.76.13.181,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
