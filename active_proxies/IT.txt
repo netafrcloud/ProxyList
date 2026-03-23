@@ -5,6 +5,7 @@
 151.91.39.191,443,IT,Stellantis Auto SAS
 176.126.83.146,8443,IT,Oneprovidercom Florence Infrastructure
 194.165.59.20,443,IT,WorkTitans BV
+172.232.206.9,443,IT,Linode
 176.126.83.146,2053,IT,Oneprovidercom Florence Infrastructure
 87.120.237.36,81,IT,GCore Labs SA
 195.231.38.220,443,IT,Aruba SpA Cloud Services IT3
