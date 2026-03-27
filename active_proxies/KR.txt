@@ -25,7 +25,7 @@
 138.2.122.197,39863,KR,Oracle Corporation
 132.145.88.82,38066,KR,Oracle Public Cloud
 132.226.21.116,6056,KR,Oracle Public Cloud
-140.238.5.75,13644,KR,Oracle Public Cloud
+140.238.5.75,13644,KR,Oracle Corporation
 131.186.17.132,443,KR,Oracle Public Cloud
 123.111.169.70,443,KR,SK Broadband Co Ltd
 1.249.45.86,12112,KR,SK Broadband Co Ltd

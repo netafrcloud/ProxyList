@@ -1,3 +1,4 @@
+77.110.110.254,443,AT,Aeza International LTD
 94.177.8.122,8443,AT,Alwyzon a trading name of Hohl IT eU
 46.102.156.144,2053,AT,Alwyzon a trading name of Hohl IT eU
 151.236.8.190,443,AT,EDIS IPv6 Infrastructure in Austria
@@ -9,8 +10,9 @@
 185.104.63.203,443,AT,ZetServers Vienna
 83.138.55.252,2053,AT,Alwyzon a trading name of Hohl IT eU
 38.180.143.51,8443,AT,3NT SOLUTIONS LLP
+85.236.242.36,443,AT,Cable Customers
 185.104.63.202,443,AT,ZetServers Vienna
 38.180.143.51,2053,AT,3NT SOLUTIONS LLP
-85.236.242.36,443,AT,Cable Customers
 185.104.63.201,443,AT,ZetServers Vienna
 85.192.42.63,443,AT,Aeza International LTD
+85.192.42.55,443,AT,Aeza International LTD
