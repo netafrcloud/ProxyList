@@ -38,3 +38,4 @@
 144.24.87.69,50001,KR,Oracle Corporation
 138.2.122.191,443,KR,Oracle Corporation
 129.154.212.17,20180,KR,Oracle Corporation
+193.122.115.67,4434,KR,Oracle Public Cloud
