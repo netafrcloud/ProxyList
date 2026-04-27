@@ -2,8 +2,8 @@
 80.211.48.113,443,IT,Aruba SpA Cloud Services DC1
 77.81.234.27,2053,IT,Aruba SpA Cloud Services Farm2
 5.249.146.98,443,IT,Aruba SpA Cloud Services Farm2
-77.81.234.27,8443,IT,Aruba SpA Cloud Services Farm2
 151.91.39.191,443,IT,Stellantis Auto SAS
+77.81.234.27,8443,IT,Aruba SpA Cloud Services Farm2
 194.165.59.20,443,IT,WorkTitans BV
 87.120.237.36,81,IT,GCore Labs SA
 195.231.38.220,443,IT,Aruba SpA Cloud Services IT3
