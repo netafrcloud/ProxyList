@@ -1,5 +1,5 @@
 47.92.161.8,443,CN,Aliyun Computing Co LTD
 47.92.245.88,443,CN,Aliyun Computing Co LTD
-36.133.126.13,443,CN,China Mobile Communications Corporation
 36.138.54.45,443,CN,China Mobile Communications Corporation
+36.133.126.13,443,CN,China Mobile Communications Corporation
 39.98.224.123,443,CN,Aliyun Computing Co LTD
