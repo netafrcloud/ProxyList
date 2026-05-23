@@ -15,12 +15,11 @@
 192.131.142.161,46639,HK,365 Group LLC
 43.132.244.52,21415,HK,6 COLLYER QUAY
 47.76.218.163,443,HK,Alibaba Cloud HK
-5.180.98.146,22827,HK,TEN
 18.162.156.23,12355,HK,Amazon Data Services Hong Kong
+5.180.98.146,22827,HK,TEN
 219.76.13.169,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
-8.218.36.133,9010,HK,Alibaba Cloud Singapore Private Limited
 43.198.204.35,443,HK,Amazoncom Inc
+8.218.36.133,9010,HK,Alibaba Cloud Singapore Private Limited
 210.3.159.133,443,HK,HGC Global Communications Limited
-141.11.91.67,8080,HK,HYTRON NETWORK HK
+141.11.91.67,8080,HK,Tusker Technologies Pty Ltd
 103.251.89.149,29876,HK,HengTian HK DataCenter
-219.76.13.181,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
