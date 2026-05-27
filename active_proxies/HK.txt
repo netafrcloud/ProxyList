@@ -1,5 +1,5 @@
-8.210.29.68,443,HK,Aliyun Computing CoLTD
 194.156.99.182,8443,HK,FreeNet LLCFZ
+8.210.29.68,443,HK,Aliyun Computing CoLTD
 219.76.13.180,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 219.76.13.167,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 219.76.13.183,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
@@ -11,15 +11,14 @@
 2.56.91.89,8443,HK,ihchk vps in Hong Kong
 219.76.13.177,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 101.79.165.113,443,HK,CDNetworks
-156.230.12.71,443,HK,263 Global Communication Limited
+156.230.12.71,443,HK,263 Shanghai Communications Ltd
 43.132.244.52,21415,HK,6 COLLYER QUAY
-47.76.218.163,443,HK,Alibaba Cloud HK
 5.180.98.146,22827,HK,TEN
+47.76.218.163,443,HK,Alibaba Cloud HK
 18.162.156.23,12355,HK,Amazon Data Services Hong Kong
+8.218.36.133,9010,HK,Alibaba Cloud Singapore Private Limited
 219.76.13.169,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 43.198.204.35,443,HK,Amazoncom Inc
-192.131.142.161,46639,HK,365 Group LLC
 210.3.159.133,443,HK,HGC Global Communications Limited
-141.11.91.67,8080,HK,Tusker Technologies Pty Ltd
+141.11.91.67,8080,HK,HYTRON NETWORK HK
 103.251.89.149,29876,HK,HengTian HK DataCenter
-219.76.13.181,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
