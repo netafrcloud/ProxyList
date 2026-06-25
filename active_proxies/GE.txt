@@ -1,1 +1,1 @@
-206.53.48.171,443,GE,HZ Hosting Ltd
+194.135.119.208,443,GE,Reliable Communications sro
