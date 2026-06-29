@@ -1,5 +1,4 @@
 80.211.170.53,443,IT,Aruba SpA Cloud Services Farm2
-80.211.48.113,443,IT,Aruba SpA Cloud Services DC1
 5.249.146.98,443,IT,Aruba SpA Cloud Services Farm2
 158.180.231.216,443,IT,Oracle Corporation
 151.91.39.191,443,IT,Stellantis Auto SAS
