@@ -2,9 +2,9 @@
 80.211.48.113,443,IT,Aruba SpA Cloud Services DC1
 5.249.146.98,443,IT,Aruba SpA Cloud Services Farm2
 158.180.231.216,443,IT,Oracle Corporation
-151.91.39.191,443,IT,Stellantis Auto SAS
+172.232.206.9,443,IT,Linode
 87.120.237.36,81,IT,GCore Labs SA
+195.231.38.220,443,IT,Aruba SpA Cloud Services IT3
 185.47.172.172,8443,IT,OMC COMPUTERS COMMUNICATIONS LTD
 129.152.2.127,1488,IT,Oracle Corporation
 4.232.64.201,443,IT,Microsoft Corporation
-195.231.38.220,443,IT,Aruba SpA Cloud Services IT3
