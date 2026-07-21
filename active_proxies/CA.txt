@@ -5,6 +5,7 @@
 40.233.116.225,443,CA,Oracle Corporation
 69.28.83.244,443,CA,AtlanticNet Toronto LLC
 40.177.65.8,443,CA,Amazon Data Services Canada
+137.184.168.37,443,CA,DigitalOcean LLC
 149.56.14.62,443,CA,OVH Hosting Inc
 150.230.27.23,16504,CA,Oracle Corporation
 167.114.67.25,443,CA,OVH Hosting Inc
