@@ -4,8 +4,8 @@
 5.101.180.125,2053,EE,Network for hosting services
 176.97.74.132,2053,EE,IROKO Networks Corporation
 5.101.180.125,8443,EE,Network for hosting services
-185.123.53.53,443,EE,BlueVPS OU
 176.97.74.41,2053,EE,IROKO Networks Corporation
+185.123.53.53,443,EE,BlueVPS OU
 80.79.121.46,443,EE,Aktsiaselts WaveCom
 80.79.123.100,443,EE,Aktsiaselts WaveCom
 38.244.154.149,443,EE,3NT SOLUTIONS LLP
@@ -13,15 +13,15 @@
 5.189.254.114,443,EE,Brainoza OU
 138.124.4.38,443,EE,Baykov Ilya Sergeevich
 45.12.28.96,443,EE,Brainoza OU
-176.97.74.41,8443,EE,IROKO Networks Corporation
 46.36.221.147,2053,EE,Network for hosting services
+176.97.74.41,8443,EE,IROKO Networks Corporation
 185.36.140.228,8443,EE,Brainoza OU
 185.36.141.81,443,EE,Brainoza OU
 185.23.236.111,443,EE,ITDevelop DOO
 45.12.28.95,443,EE,Brainoza OU
+185.4.73.45,443,EE,IPv6 network for hosting services
 45.129.199.117,443,EE,BlueVPS OU
 80.77.25.142,443,EE,servingacom Estonia
-185.4.73.45,443,EE,IPv6 network for hosting services
 185.36.141.193,443,EE,Brainoza OU
 185.36.140.228,2053,EE,Brainoza OU
 46.36.221.147,8443,EE,Network for hosting services
