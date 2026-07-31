@@ -25,6 +25,6 @@
 185.36.141.193,443,EE,Brainoza OU
 185.36.140.228,2053,EE,Brainoza OU
 46.36.221.147,8443,EE,Network for hosting services
-83.217.210.42,443,EE,Baykov Ilya Sergeevich
 185.255.178.131,443,EE,Baykov Ilya Sergeevich
+83.217.210.42,443,EE,Baykov Ilya Sergeevich
 38.180.248.167,8443,EE,3NT SOLUTIONS LLP
