@@ -1,4 +1,3 @@
-178.208.80.52,443,CZ,Iron Hosting Centre Ltd London UK mchost
 91.199.147.23,443,CZ,SmartApe OU
 91.184.248.197,2053,CZ,SmartApe OU
 87.236.146.76,443,CZ,SmartApe OU
