@@ -6,7 +6,6 @@
 221.125.10.8,57537,HK,HGC Global Communications Limited
 219.76.13.177,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 101.79.165.113,443,HK,CDNetworks
-8.218.36.133,9010,HK,Alibaba Cloud Singapore Private Limited
 219.76.13.169,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
 43.198.204.35,443,HK,Amazoncom Inc
 219.76.13.181,443,HK,Hong Kong Telecommunications HKT Limited Mass Internet
