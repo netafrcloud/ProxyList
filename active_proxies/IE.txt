@@ -1,6 +1,6 @@
+159.69.162.184,43443,IE,Inter Connects Inc
 52.19.138.237,2053,IE,Amazon Data Services Ireland Limited
 198.55.103.168,443,IE,VPS ACE
-63.32.194.15,2053,IE,Amazon Data Services Ireland Limited
 52.19.138.237,8443,IE,Amazon Data Services Ireland Limited
 54.77.206.41,443,IE,Amazon Technologies Inc
 54.229.164.147,8443,IE,Amazoncom Inc
@@ -9,4 +9,4 @@
 63.32.194.15,8443,IE,Amazon Data Services Ireland Limited
 54.216.143.197,443,IE,Amazoncom Inc
 85.159.229.122,443,IE,GLOBAL INTERNET SOLUTIONS LLC
-107.172.145.153,443,IE,RackNerd LLC
+63.32.194.15,2053,IE,Amazon Data Services Ireland Limited
