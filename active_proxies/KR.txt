@@ -1,6 +1,5 @@
 146.56.99.22,20443,KR,Oracle Corporation Global software solutions California USA
 152.69.229.175,22558,KR,Oracle Corporation
-217.142.138.61,37914,KR,Oracle Svenska AB
 132.145.84.148,39567,KR,Oracle Public Cloud
 144.24.73.232,443,KR,Oracle Corp UK Ltd
 152.67.211.114,58337,KR,Oracle Public Cloud
@@ -11,4 +10,4 @@
 158.247.250.157,81,KR,The Constant Company LLC
 61.85.1.77,12150,KR,Korea Telecom
 144.24.87.69,50001,KR,Oracle Corporation
-192.46.231.158,443,KR,The Constant Company LLC
+138.2.122.191,443,KR,Oracle Corporation
