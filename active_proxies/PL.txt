@@ -6,8 +6,8 @@
 146.59.19.208,8443,PL,OVH Sp z o o
 176.124.33.59,443,PL,BlueVPS OU
 80.211.249.240,8443,PL,Aruba SpA Cloud Services PL1
-70.34.244.250,27000,PL,The Constant Company LLC
 178.255.46.176,443,PL,Artnet Sp z oo
+70.34.244.250,27000,PL,The Constant Company LLC
 70.34.244.250,53062,PL,The Constant Company LLC
 70.34.244.250,12531,PL,The Constant Company LLC
 80.211.249.240,2053,PL,Aruba SpA Cloud Services PL1
@@ -20,18 +20,18 @@
 145.239.88.255,8443,PL,OVH VPS WAW
 217.182.79.55,443,PL,OVH Sp z o o
 51.77.58.226,443,PL,OVH Sp z o o
-45.144.51.139,8443,PL,Newserverlife LLC
 64.176.68.73,443,PL,The Constant Company LLC
 91.149.253.249,443,PL,Cloudflare London LLC
-89.46.235.32,8443,PL,EDIS Infrastructure in Poland
+45.144.51.139,8443,PL,Newserverlife LLC
 51.68.141.223,443,PL,OVH Sp z o o
+89.46.235.32,8443,PL,EDIS Infrastructure in Poland
 185.253.44.97,443,PL,Friendhosting LTD
 95.164.90.133,443,PL,Netassist Limited
 145.239.88.255,2053,PL,OVH VPS WAW
 103.167.234.26,443,PL,Albanian Hosting SHPK ta AlbHost SHPK
 188.116.40.37,443,PL,Artnet Sp z oo
 45.144.50.4,443,PL,Newserverlife LLC
-45.144.49.146,443,PL,Newserverlife LLC
 185.226.181.184,2053,PL,NET 185 226 181 0 24
+45.144.49.146,443,PL,Newserverlife LLC
 51.75.32.106,443,PL,OVH Sp z o o
 2.56.172.107,443,PL,Local NCC Ltd
