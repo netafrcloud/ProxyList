@@ -12,7 +12,6 @@
 43.156.181.203,443,SG,16 COLLYER QUAY
 164.52.2.100,443,SG,UCULSG
 149.28.158.103,10030,SG,Vultr Holdings LLC
-172.104.161.151,443,SG,Zenlayer Singapore PTE LTD
 143.42.66.91,443,SG,Viewqwest Pte Ltd
 47.130.35.116,8888,SG,Amazon Data Services Singapore
 3.0.50.69,443,SG,Amazon Data Services Singapore
