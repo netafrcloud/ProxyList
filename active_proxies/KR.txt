@@ -11,4 +11,3 @@
 158.247.250.157,81,KR,The Constant Company LLC
 61.85.1.77,12150,KR,Korea Telecom
 144.24.87.69,50001,KR,Oracle Corporation
-138.2.122.191,443,KR,Oracle Corporation
