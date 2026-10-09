@@ -5,8 +5,8 @@
 146.59.19.208,8443,PL,OVH Sp z o o
 176.124.33.59,443,PL,BlueVPS OU
 80.211.249.240,8443,PL,Aruba SpA Cloud Services PL1
-178.255.46.176,443,PL,Artnet Sp z oo
 70.34.244.250,27000,PL,The Constant Company LLC
+178.255.46.176,443,PL,Artnet Sp z oo
 70.34.244.250,53062,PL,The Constant Company LLC
 70.34.244.250,12531,PL,The Constant Company LLC
 80.211.249.240,2053,PL,Aruba SpA Cloud Services PL1

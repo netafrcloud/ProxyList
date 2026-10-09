@@ -1,4 +1,3 @@
-139.180.159.133,443,SG,SGPVULTRCUST
 178.128.86.3,443,SG,DigitalOcean LLC
 168.138.165.174,443,SG,Oracle Public Cloud
 150.109.11.223,443,SG,6 COLLYER QUAY
@@ -13,6 +12,7 @@
 164.52.2.100,443,SG,UCULSG
 149.28.158.103,10030,SG,Vultr Holdings LLC
 139.177.185.196,443,SG,Akamai Connected Cloud Linode
+192.46.231.158,443,SG,Akamai Connected Cloud Linode
 143.42.66.91,443,SG,Viewqwest Pte Ltd
 47.130.35.116,8888,SG,Amazon Data Services Singapore
 3.0.50.69,443,SG,Amazon Data Services Singapore
