@@ -18,11 +18,10 @@
 64.176.68.73,443,PL,The Constant Company LLC
 91.149.253.249,443,PL,Cloudflare London LLC
 51.68.141.223,443,PL,OVH Sp z o o
+185.253.44.97,443,PL,Friendhosting LTD
 95.164.90.133,443,PL,Netassist Limited
 145.239.88.255,2053,PL,OVH VPS WAW
-185.253.44.97,443,PL,Friendhosting LTD
 103.167.234.26,443,PL,Albanian Hosting SHPK ta AlbHost SHPK
-188.116.40.37,443,PL,Artnet Sp z oo
 45.144.50.4,443,PL,Newserverlife LLC
 45.144.49.146,443,PL,Newserverlife LLC
 51.75.32.106,443,PL,OVH Sp z o o

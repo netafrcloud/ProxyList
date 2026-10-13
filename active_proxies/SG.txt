@@ -13,7 +13,6 @@
 164.52.2.100,443,SG,UCULSG
 172.104.161.151,443,SG,Zenlayer Singapore PTE LTD
 139.177.185.196,443,SG,Akamai Connected Cloud Linode
-192.46.231.158,443,SG,Akamai Connected Cloud Linode
 143.42.66.91,443,SG,M1 Ltd
 47.130.35.116,8888,SG,Amazon Data Services Singapore
 3.0.50.69,443,SG,Amazon Data Services Singapore
