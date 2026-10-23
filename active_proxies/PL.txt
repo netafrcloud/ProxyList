@@ -25,4 +25,3 @@
 45.144.50.4,443,PL,Newserverlife LLC
 45.144.49.146,443,PL,Newserverlife LLC
 51.75.32.106,443,PL,OVH Sp z o o
-2.56.172.107,443,PL,Local NCC Ltd
