@@ -1,1 +1,1 @@
-210.61.97.241,81,TW,Chunghwa Telecom CoLtd
+154.23.243.87,443,TW,HiNet Taiwan
