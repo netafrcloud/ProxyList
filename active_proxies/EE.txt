@@ -1,5 +1,4 @@
 185.252.177.107,443,EE,1Cent Host
-176.112.164.131,8443,EE,EENetwork
 5.101.180.125,2053,EE,Network for hosting services
 5.101.180.125,8443,EE,Network for hosting services
 176.97.74.41,2053,EE,3NT Solutions LLP
@@ -15,3 +14,4 @@
 45.129.199.117,443,EE,BlueVPS OU
 185.36.140.228,2053,EE,Brainoza OU
 185.255.178.131,443,EE,Baykov Ilya Sergeevich
+138.124.4.70,443,EE,Baykov Ilya Sergeevich
