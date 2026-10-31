@@ -11,7 +11,8 @@
 43.156.181.203,443,SG,16 COLLYER QUAY
 164.52.2.100,443,SG,UCULSG
 149.28.158.103,10030,SG,Vultr Holdings LLC
-143.42.66.91,443,SG,Viewqwest Pte Ltd
+45.32.101.149,443,SG,The Constant Company LLC
+143.42.66.91,443,SG,M1 Ltd
 47.130.35.116,8888,SG,Amazon Data Services Singapore
 3.0.50.69,443,SG,Amazon Data Services Singapore
 47.74.254.191,8900,SG,Alibaba Cloud SG
