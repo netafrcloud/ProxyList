@@ -4,6 +4,7 @@
 64.110.104.30,443,JP,Oracle Corporation
 150.230.5.34,45681,JP,Oracle Corporation
 168.138.46.67,443,JP,Oracle Public Cloud
+140.238.50.134,443,JP,Oracle Public Cloud
 131.186.63.89,11655,JP,Oracle Public Cloud
 138.2.32.76,15821,JP,Oracle Corporation
 155.248.181.189,443,JP,Oracle Public Cloud
@@ -23,6 +24,5 @@
 47.74.8.30,2443,JP,Alibaba Cloud JP
 150.230.214.172,16957,JP,Oracle Corporation
 138.2.5.136,443,JP,Cloudflare London LLC
-153.121.45.101,443,JP,SAKURA Internet Inc
 45.77.25.6,27854,JP,Vultr Holdings LLC
 45.77.25.6,48828,JP,Vultr Holdings LLC
