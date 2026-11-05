@@ -11,7 +11,6 @@
 197.221.237.248,443,ZW,Serial Link for TelOne HQ
 197.221.240.241,443,ZW,Serial Link for TelOne HQ
 197.221.237.255,443,ZW,Serial Link for TelOne HQ
-41.220.16.219,443,ZW,Serial Link for TelOne HQ
 197.221.249.199,443,ZW,Serial Link for TelOne HQ
 197.221.240.182,443,ZW,Serial Link for TelOne HQ
 41.220.16.214,443,ZW,Serial Link for TelOne HQ
@@ -20,3 +19,4 @@
 41.220.16.217,443,ZW,Serial Link for TelOne HQ
 197.221.240.240,443,ZW,Serial Link for TelOne HQ
 41.220.16.210,443,ZW,Serial Link for TelOne HQ
+41.220.16.219,443,ZW,Serial Link for TelOne HQ
