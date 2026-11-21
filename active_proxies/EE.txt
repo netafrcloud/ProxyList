@@ -1,4 +1,4 @@
-185.252.177.107,443,EE,EENetwork
+185.252.177.107,443,EE,1Cent Host
 5.101.180.125,2053,EE,Network for hosting services
 5.101.180.125,8443,EE,Network for hosting services
 176.97.74.41,2053,EE,3NT Solutions LLP

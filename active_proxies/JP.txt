@@ -19,7 +19,7 @@
 140.83.57.20,13118,JP,imported inetnum object for OCPL1
 158.101.154.245,47001,JP,Oracle Public Cloud
 47.74.8.30,2443,JP,Alibaba Cloud JP
-150.230.214.172,16957,JP,Oracle Corporation
 138.2.5.136,443,JP,Cloudflare London LLC
+150.230.214.172,16957,JP,Oracle Corporation
 45.77.25.6,27854,JP,Vultr Holdings LLC
 45.77.25.6,48828,JP,Vultr Holdings LLC
